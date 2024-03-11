@@ -1,3 +1,5 @@
+[Link to deployed site](https://lauraevepatterson.github.io/mdn-planet-info-aria-live/)
+
 # ARIA Live Regions Example
 
 This repository contains a basic example demonstrating the use of ARIA live regions to enhance accessibility on the web. The example is based on the MDN Web Docs example titled "Dropdown box updates useful onscreen information," which showcases dynamic updates of planet information when a user selects a planet from a dropdown menu.
